@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    text-align: center;
+    margin-top: 40px;
+}
+
+table{
+    margin: 0 auto;
+}
+
+body{
+    background-color: #cad1ff;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.active{
+    text-decoration: underline;
+}
+
+header{
+    padding: 15px;
+    background-color: #f9ffca;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-2{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
