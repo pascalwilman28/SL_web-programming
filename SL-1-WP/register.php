@@ -14,43 +14,43 @@
     <table width="90%" cellpadding="3">
         <tr>
             <td width="10%">Nama Depan</td>
-            <td><input type="text" name="firstname" required></td>
+            <td><input type="text" name="firstname"></td>
             <td width="10%">Nama Tengah</td>
-            <td><input type="text" name="midname" required></td>
+            <td><input type="text" name="midname"></td>
             <td width="11%">Nama Belakang</td>
-            <td width="10%"><input type="text" name="lastname" required></td>
+            <td width="10%"><input type="text" name="lastname"></td>
         </tr>
         <tr>
             <td width="9%">Tempat Lahir</td>
-            <td><input type="text" name="tempat" required></td>
+            <td><input type="text" name="tempat"></td>
             <td width="10%">Tgl Lahir</td>
-            <td><input type="date" name="ttl" required></td>
+            <td><input type="date" name="ttl"></td>
             <td width="11%">NIK</td>
-            <td><input type="text" name="nik" minlength="16" maxlength="16" required></td>
+            <td><input type="text" name="nik"></td>
         </tr>
         <tr>
             <td width="9%">Warga Negara</td>
-            <td><input type="text" name="warganegara" required></td>
+            <td><input type="text" name="warganegara"></td>
             <td width="10%">Email</td>
-            <td><input type="email" name="email" required></td>
+            <td><input type="email" name="email"></td>
             <td width="11%">No HP</td>
-            <td><input type="tel" name="nohp" minlength="11" maxlength="13" required></td>
+            <td><input type="tel" name="nohp"></td>
         </tr>
         <tr>
             <td width="9%">Alamat</td>
-            <td><textarea name="alamat" cols="21" rows="5" required></textarea></td>
+            <td><textarea name="alamat" cols="21" rows="5"></textarea></td>
             <td width="10%">Kode Pos</td>
-            <td><input type="text" name="pos" minlength="5" maxlength="5" required></td>
+            <td><input type="text" name="pos"></td>
             <td width="11%">Foto Profil</td>
-            <td><input type="file" name="file" required></td>
+            <td><input type="file" name="file"></td>
         </tr>
         <tr>
             <td width="9%">Username</td>
-            <td><input type="text" name="username" required></td>
+            <td><input type="text" name="username"></td>
             <td width="10%">Password 1</td>
-            <td><input type="password" name="password" required></td>
+            <td><input type="password" name="password"></td>
             <td width="11%">Password 2</td>
-            <td><input type="password" name="confirmpassword" required></td>
+            <td><input type="password" name="confirmpassword"></td>
         </tr>
     </table>
     </center>
