@@ -1,0 +1,49 @@
+body{
+    background-color: #c2f0f7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title{
+    text-align: center;
+    margin-top: 40px;
+}
+
+table{
+    margin: 0 auto;
+}
+
+.btn{
+    display: flex;
+    justify-content: flex-end;
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+}
+
+.back-btn{
+    background-color: #fdd7ac;
+    padding: 5px 30px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 10pt;
+}
+
+.back-btn:hover{
+    background-color: #f8b66a;
+    cursor: pointer;
+}
+
+.register-btn{
+    background-color: #adf59f;
+    padding: 5px 30px;
+}
+
+.register-btn:hover{
+    background-color: #72e95a;
+    cursor: pointer;
+}
+
+
+
+

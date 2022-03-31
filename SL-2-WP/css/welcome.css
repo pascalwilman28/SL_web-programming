@@ -1,0 +1,48 @@
+
+body{
+    background-color: #e5edeb;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title{
+    margin-top: 40px;
+    font-weight: 400;
+}
+
+.header{
+    margin-top: 100px;
+    font-weight: 400;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+}
+
+.login-btn{
+    background-color: #99d6ed;
+    padding: 20px 40px;
+    border: none;
+    font-size: 30pt;
+}
+
+.login-btn:hover{
+    background-color: #44b9e4;
+    cursor: pointer;
+}
+
+.register-btn{
+    background-color: #c6ed99;
+    padding: 20px 40px;
+    border: none;
+    font-size: 30pt;
+}
+
+.register-btn:hover{
+    background-color: #a3eb52;
+    cursor: pointer;
+}

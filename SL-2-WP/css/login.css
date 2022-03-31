@@ -1,0 +1,46 @@
+body{
+    background-color: #fbfdac;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title{
+    text-align: center;
+    margin-top: 40px;
+}
+
+table{
+    background-color: #ace6fd;
+    padding: 30px;
+}
+
+.btn{
+    display: flex;
+    justify-content: flex-end;
+    width: 25%;
+    margin: auto;
+    padding: 10px;
+}
+
+.back-btn{
+    background-color: #fdd7ac;
+    padding: 5px 30px;
+    border: none;
+}
+
+.back-btn:hover{
+    background-color: #f8b66a;
+    cursor: pointer;
+}
+
+.login-btn{
+    background-color: #adf59f;
+    padding: 5px 30px;
+    margin-right: 20px;
+    border: none;
+}
+
+.login-btn:hover{
+    background-color: #72e95a;
+    cursor: pointer;
+}
+
